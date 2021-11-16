@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src=".../githubcard.svg"/>
+<!-- <img align="right" height="590em" src=".../githubcard.svg"/> -->
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/EinCodes/EinCodes/main/hi.gif" width="30px">, I'm Edmilson de Assis <img src="https://raw.githubusercontent.com/EinCodes/EinCodes/main/mona-whisper.gif" width="30px"></h1>
 
