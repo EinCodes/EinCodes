@@ -9,7 +9,7 @@
 
 - 📮 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, ABAP, UI5, Dart**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -47,7 +47,7 @@
 ![SAP BAS](https://img.shields.io/badge/SAP%20Business%20Application%20Studio-1287B1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
