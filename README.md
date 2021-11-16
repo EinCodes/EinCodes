@@ -11,7 +11,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## ☄ &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@
 
 <br>
 
-## 🛠 &nbsp;SAP Tech Stack
+## ☄ &nbsp;SAP Tech Stack
 
 ![SAP ECC](https://img.shields.io/badge/ECC-1287B1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![SAP On Premisse](https://img.shields.io/badge/netweaver-1287B1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
@@ -53,7 +53,7 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## 📈 &nbsp;GitHub Analytics
 
 <!-- <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=eincodes&show_icons=true&theme=vision-friendly-dark" alt="Edmilson's stats"/> -->
@@ -62,7 +62,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨‍💻 &nbsp;Social Links
 
 <p align="left">
 <a href="https://linkedin.com/in/edmilsondeassis" target="_blank">
