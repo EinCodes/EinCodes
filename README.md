@@ -5,13 +5,13 @@
 
 - 🔥 Software Developer who likes to spend hours programming, learning new technologies and focused on helping people learn to code too!
 
-- 🌠 I’m currently working at [NTT DATA Business Solutions Brazil](https://github.com/SierraSystems)
+- ☄ I’m currently working at [NTT DATA Business Solutions Brazil](https://github.com/SierraSystems)
 
-- 📮 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, ABAP, UI5, Dart**
+- 🌠 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, ABAP, UI5, Dart**
 
 <br>
 
-## ☄ &nbsp;Tech Stack
+## 🌌 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@
 
 <br>
 
-## ☄ &nbsp;SAP Tech Stack
+## 🌌 &nbsp;SAP Tech Stack
 
 ![SAP ECC](https://img.shields.io/badge/ECC-1287B1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![SAP On Premisse](https://img.shields.io/badge/netweaver-1287B1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
@@ -53,7 +53,7 @@
 
 <br>
 
-## 📈 &nbsp;GitHub Analytics
+## ⚛ &nbsp;GitHub Analytics
 
 <!-- <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=eincodes&show_icons=true&theme=vision-friendly-dark" alt="Edmilson's stats"/> -->
