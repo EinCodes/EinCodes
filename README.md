@@ -56,6 +56,7 @@
 ## ⚛ &nbsp;GitHub Analytics
 
 ![Edmilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eincodes&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
+
 ![Edmilson's Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eincodes&layout=compact&langs_count=6&theme=radical)
 
 <br><br>
