@@ -55,10 +55,8 @@
 
 ## ⚛ &nbsp;GitHub Analytics
 
-<!-- <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=eincodes&show_icons=true&theme=vision-friendly-dark" alt="Edmilson's stats"/> -->
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eincodes&layout=compact&theme=vision-friendly-dark" alt="Edmilson's most languages"/>
-</p>
+![Edmilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eincodes&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
+![Edmilson's Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eincodes&layout=compact&langs_count=6&theme=radical)
 
 <br><br>
 
