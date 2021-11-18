@@ -3,7 +3,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/EinCodes/EinCodes/main/hi.gif" width="30px">, I'm Ed <img src="https://raw.githubusercontent.com/EinCodes/EinCodes/main/mona-whisper.gif" width="30px"></h1>
 
-- 🔥 Software Developer who likes to spend hours programming, learning new technologies and focused on helping people learn to code too!
+- 🔥 Software Developer who likes to spend hours programming and learning new technologies!
 
 - ☄ I’m currently working at [NTT DATA Business Solutions Brazil](https://github.com/SierraSystems)
 
