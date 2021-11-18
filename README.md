@@ -1,7 +1,7 @@
 
 <!-- <img align="right" height="590em" src=".../githubcard.svg"/> -->
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/EinCodes/EinCodes/main/hi.gif" width="30px">, I'm Edmilson de Assis <img src="https://raw.githubusercontent.com/EinCodes/EinCodes/main/mona-whisper.gif" width="30px"></h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/EinCodes/EinCodes/main/hi.gif" width="30px">, I'm Ed <img src="https://raw.githubusercontent.com/EinCodes/EinCodes/main/mona-whisper.gif" width="30px"></h1>
 
 - 🔥 Software Developer who likes to spend hours programming, learning new technologies and focused on helping people learn to code too!
 
