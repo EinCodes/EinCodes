@@ -35,7 +35,7 @@
 
 <br>
 
-## 🌌 &nbsp;SAP Tech Stack
+## 🌌 &nbsp;SAP Stack
 
 ![SAP ECC](https://img.shields.io/badge/ECC-1287B1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![SAP On Premisse](https://img.shields.io/badge/netweaver-1287B1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
