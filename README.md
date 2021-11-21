@@ -63,7 +63,7 @@
 ## 👨‍💻 &nbsp;Social Links
 
 <p align="left">
-<a href="https://linkedin.com/in/edmilsondeassis" target="_blank">
+<a href="https://www.linkedin.com/in/ed-developer/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://codepen.io/" target="_blank">
@@ -72,7 +72,7 @@
 <a href="https://" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="codepen"/>
 </a>
-<a href="https://" target="_blank">
+<a href="https://myanimelist.net/profile/Einherzs" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="myanimelist"/>
 </a>
 </p>
