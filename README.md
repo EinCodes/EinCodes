@@ -7,7 +7,7 @@
 
 - ☄ I’m currently working at [NTT DATA Business Solutions Brazil](https://github.com/SierraSystems)
 
-- 🌠 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, ABAP, UI5, Dart**
+- 🌠 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, ABAP, UI5**
 
 <br>
 
@@ -21,8 +21,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-6b32a8?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)&nbsp;
+<!-- ![Dart](https://img.shields.io/badge/Dart-6b32a8?style=for-the-badge&logo=dart&logoColor=white)&nbsp; -->
+<!-- ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)&nbsp; -->
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
